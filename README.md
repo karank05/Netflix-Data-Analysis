@@ -1,4 +1,4 @@
-Movie Database Analysis
+# Movie Database Analysis
 
 
 This is a personal project where I explored a movie dataset (mymoviedb.csv) with over 9,800 entries. The main goal was to practice my data cleaning and analysis skills using Jupyter Notebook. I cleaned up the raw data, transformed a few columns, and then used visualizations to find some interesting trends.
