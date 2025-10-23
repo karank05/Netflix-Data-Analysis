@@ -26,15 +26,15 @@ Loaded the Data: Pulled the mymoviedb.csv into a Pandas DataFrame.
 # Key Findings
 
 After cleaning the data, I made a few plots to answer some questions:
-* 01: What's the most frequent genre?
+* What's the most frequent genre?
 Drama is the most common genre by a wide margin. It appeared over 14% of the time.
-* 02: What do the vote averages look like?
+* What do the vote averages look like?
 The data was split pretty evenly, but 25.5% of the movies fell into the top 'popular' category.
 Digging deeper, Drama was also the most common genre within that 'popular' group, accounting for over 18.5% of the top-rated films.
-* 03: What are the most and least popular movies?
+* What are the most and least popular movies?
 Highest Popularity: "Spider-Man: No Way Home" (Action, Adventure, Science Fiction)
 Lowest Popularity: "The united states, thread" (Music, Drama, War, Sci-Fi, History)
-* 04: Which year had the most movie releases?
+* Which year had the most movie releases?
 According to the data, 2020 was the year with the most movie releases.
 
 
