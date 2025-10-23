@@ -6,10 +6,10 @@ This is a personal project where I explored a movie dataset (mymoviedb.csv) with
 
 # Tech I Used
 
-Jupyter Notebook, 
-Pandas (for all the data cleaning and manipulation), 
-NumPy, 
-Matplotlib & Seaborn (for making the charts)
+* Jupyter Notebook
+* Pandas (for all the data cleaning and manipulation)
+* NumPy
+* Matplotlib & Seaborn (for making the charts)
 
 
 # The Data Cleaning Process
